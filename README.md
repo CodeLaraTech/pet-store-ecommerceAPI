@@ -1,6 +1,6 @@
 # FastAPI Pet Store API
 
-![Architecture Diagram](Architecture Diagram.png)
+![Architecture Diagram](./Architecture%20Diagram.png)
 
 A simple, production-ready FastAPI backend for a pet food store. It includes authentication, products, orders, subscriptions, coupons, admin dashboards, and analytics.
 
@@ -113,10 +113,8 @@ d:\trae project\fastapi-pet/
 
 ## Image Notes
 
-- Replace the placeholder architecture image with your own file:
-  - Add an image (e.g., `docs/architecture.png`).
-  - Update the Markdown at the top:
-    - `![Architecture Diagram](docs/architecture.png)`
+- Architecture diagram is embedded from `./Architecture%20Diagram.png`.
+- To replace it, update the Markdown image path near the top.
 
 ## Testing
 

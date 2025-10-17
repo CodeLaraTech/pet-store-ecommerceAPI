@@ -32,7 +32,7 @@ A simple, production-ready FastAPI backend for a pet food store. It includes aut
 ## Project Structure
 
 ```
-d:\trae project\fastapi-pet/
+Pet-store-ecommerceAPI/
 ├── .env
 ├── alembic.ini
 ├── alembic/

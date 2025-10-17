@@ -1,6 +1,6 @@
 # FastAPI Pet Store API
 
-![Architecture Diagram](https://via.placeholder.com/1200x600?text=FastAPI+Pet+Store+Architecture)
+![Architecture Diagram](Architecture Diagram.png)
 
 A simple, production-ready FastAPI backend for a pet food store. It includes authentication, products, orders, subscriptions, coupons, admin dashboards, and analytics.
 
